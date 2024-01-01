@@ -28,4 +28,4 @@
 
 导出模板，填写你需要导入的商品编码等等
 
-![](https://dj30tds1ad.feishu.cn/space/api/box/stream/download/asynccode/?code=Mzc3NWU0YmQ2NzBjODM4OGQxNTliMjFmNjI3MGZlODRfTE9vcElUeUdhNXhudkNTeWpRajYzOTdhZkFsZ0RTOVRfVG9rZW46QnBYUmJzQ1F6b3BiaVF4bUNvVmNoWnFDbkFkXzE3MDQxMTg1MTE6MTcwNDEyMjExMV9WNA)
+![ ] ( https://dj30tds1ad.feishu.cn/space/api/box/stream/download/asynccode/?code=Mzc3NWU0YmQ2NzBjODM4OGQxNTliMjFmNjI3MGZlODRfTE9vcElUeUdhNXhudkNTeWpRajYzOTdhZkFsZ0RTOVRfVG9rZW46QnBYUmJ zQ1F6b3BiaVF4bUNvVmNoWnFDbkFkXzE3MDQxMTg1MTE6MTcwNDEyMjExMV9WNA )
